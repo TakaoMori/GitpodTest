@@ -1,2 +1,2 @@
 # GitpodTest
-はじめてのGitpod利用設定ファイル一式
+はじめてのGitpod設定ファイル一式
